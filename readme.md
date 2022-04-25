@@ -9,14 +9,14 @@
 
 - Full structure of HTML.
 - Functions in JavaScript:
-  - Using Dom
-  - Listen audio element.
-  - Click controls events.
-  - Load songs and list, load selected song.
-  - Upgrade cover.
-  - Update a song progress bar.
-  - Play or change a song. Go to the next when the current ends.
-  - Styles with CSS.
+- Using Dom
+- Listen audio element.
+- Click controls events.
+- Load songs and list, load selected song.
+- Upgrade cover.
+- Update a song progress bar.
+- Play or change a song. Go to the next when the current ends.
+- Styles with CSS.
 
 ## To Do
 
