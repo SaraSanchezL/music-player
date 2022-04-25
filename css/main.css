@@ -1,14 +1,17 @@
 /* Common */
-* { box-sizing: border-box;}
+* {
+    box-sizing: border-box;
+}
 
-html, body {
+html,
+body {
     height: 100%;
 }
 
 body {
-  background-image: url("../img/music-wall.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
+    background-image: url("../img/music-wall.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     font-family: sans-serif;
     background-color: lightgray;
     display: flex;
@@ -19,8 +22,8 @@ body {
 /* Player */
 .player {
     min-width: 320px;
-    background: rgb(131,58,180);
-background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    background: rgb(131, 58, 180);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
     border-radius: 1rem;
     border: solid blue;
     padding: 2rem;
